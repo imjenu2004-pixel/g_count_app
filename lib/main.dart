@@ -6,7 +6,7 @@ import 'package:provider/provider.dart';
 import 'process.dart';
 
 // Import frontend pages
-import '../frontend/pages.dart';
+import 'pages.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
